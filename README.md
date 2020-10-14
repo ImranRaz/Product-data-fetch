@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ - Fetch the product data from mock data @ productData.js
+ - Import the data to Maincomponent using Props
 
 ## Available Scripts
 
